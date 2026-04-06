@@ -20,9 +20,11 @@ async function loadConfig() {
     const hoursContainer = document.getElementById('contact-hours');
     if (hoursContainer) {
       hoursContainer.innerHTML = hours
-        .map((h, i) =>
-          `${i > 0 ? ' &nbsp;|&nbsp; ' : ''}<time datetime="${h.datetime}">${h.days}: ${h.open}–${h.close}</time>`
-        )
+        .map(h => `
+          <span class="hours-row">
+            <span class="hours-day">${h.days}</span>
+            <span class="hours-periods">${h.periods.join('<br>')}</span>
+          </span>`)
         .join('');
     }
   } catch (err) {

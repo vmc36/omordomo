@@ -7,13 +7,12 @@
   "display": "Rua Aracatu, 455 — Jardim Piedade, Jaboatão dos Guararapes – PE"
  },
  "hours": [
-  {
-   "days": "Seg–Sex",
-   "open": "9h",
-   "close": "20h",
-   "datetime": "Mo-Fr 09:00-20:00"
-  },
-  { "days": "Sáb", "open": "8h", "close": "18h", "datetime": "Sa 08:00-18:00" },
-  { "days": "Dom", "open": "9h", "close": "14h", "datetime": "Su 09:00-14:00" }
+  { "days": "Segunda", "periods": ["09:00 – 12:30", "13:30 – 18:00"] },
+  { "days": "Terça", "periods": ["09:00 – 12:30", "13:30 – 19:00"] },
+  { "days": "Quarta", "periods": ["09:00 – 12:30", "13:30 – 19:00"] },
+  { "days": "Quinta", "periods": ["08:00 – 12:30", "13:30 – 20:00"] },
+  { "days": "Sexta", "periods": ["08:00 – 12:30", "13:30 – 20:00"] },
+  { "days": "Sábado", "periods": ["09:00 – 13:00", "13:30 – 18:00"] },
+  { "days": "Domingo", "periods": ["Fechado"] }
  ]
 }
