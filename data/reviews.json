@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "name": "Marcos Oliveira",
+      "avatar": "https://i.pravatar.cc/100?img=11",
+      "rating": 5,
+      "text": "Profissionais incríveis — jeito certo, na hora certa. A atenção ao detalhe é impressionante. Saio sempre renovado e confiante."
+    },
+    {
+      "name": "Felipe Souza",
+      "avatar": "https://i.pravatar.cc/100?img=52",
+      "rating": 5,
+      "text": "Ambiente ótimo, atendimento excelente. Muito satisfeito com o resultado. Com certeza volto sempre. Melhor barbearia da cidade!"
+    },
+    {
+      "name": "Rodrigo Lima",
+      "avatar": "https://i.pravatar.cc/100?img=33",
+      "rating": 5,
+      "text": "Rápido, preciso e de alta qualidade. Sem dúvidas a melhor barbearia que já frequentei. O ambiente é incrível e o atendimento top."
+    }
+  ]
+}

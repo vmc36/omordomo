@@ -1,0 +1,23 @@
+{
+ "booksy_url": "https://booksy.com/pt-br/253711_o-mordomo-barbearia_barbearias_634596_jaboatao-dos-guararapes",
+ "services": [
+  {
+   "icon": "✂",
+   "name": "Corte Masculino",
+   "description": "Corte clássico ou moderno, feito com precisão e atenção aos detalhes do seu estilo.",
+   "price": 40
+  },
+  {
+   "icon": "🪒",
+   "name": "Barba Completa",
+   "description": "Modelagem e hidratação com toalha quente para um acabamento impecável e relaxante.",
+   "price": 40
+  },
+  {
+   "icon": "✂🪒",
+   "name": "O Combo",
+   "description": "Corte + Barba completa. A experiência completa do verdadeiro cavalheiro moderno.",
+   "price": 70
+  }
+ ]
+}
