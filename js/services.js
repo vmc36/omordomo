@@ -6,8 +6,9 @@ async function loadServices() {
     const res = await fetch('data/services.json');
     const { booksy_url, services } = await res.json();
 
-    grid.innerHTML = services.map(({ icon, name, description, price }) => `
+    grid.innerHTML = services.map(({ icon, name, description, price, image }) => `
       <li class="service-card">
+        ${image ? `<div class="service-img" style="background-image:url('${image}')" aria-hidden="true"><div class="service-img-overlay"></div></div>` : ''}
         <span class="service-icon" aria-hidden="true">${icon}</span>
         <h3 class="service-name">${name}</h3>
         <p class="service-desc">${description}</p>

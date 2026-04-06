@@ -1,22 +1,22 @@
 {
-  "reviews": [
-    {
-      "name": "Marcos Oliveira",
-      "avatar": "https://i.pravatar.cc/100?img=11",
-      "rating": 5,
-      "text": "Profissionais incríveis — jeito certo, na hora certa. A atenção ao detalhe é impressionante. Saio sempre renovado e confiante."
-    },
-    {
-      "name": "Felipe Souza",
-      "avatar": "https://i.pravatar.cc/100?img=52",
-      "rating": 5,
-      "text": "Ambiente ótimo, atendimento excelente. Muito satisfeito com o resultado. Com certeza volto sempre. Melhor barbearia da cidade!"
-    },
-    {
-      "name": "Rodrigo Lima",
-      "avatar": "https://i.pravatar.cc/100?img=33",
-      "rating": 5,
-      "text": "Rápido, preciso e de alta qualidade. Sem dúvidas a melhor barbearia que já frequentei. O ambiente é incrível e o atendimento top."
-    }
-  ]
+ "reviews": [
+  {
+   "name": "Carlos",
+   "avatar": "https://d2zdpiztbgorvt.cloudfront.net/region1/br/users/bb3e51693cd14e57b26f332d77950c-002d5c7ddd3f4ac988a7a8ee58d747-booksy.jpeg",
+   "rating": 5,
+   "text": "O melhor por excelência. Um barbeiro topado das galáxias e um verdadeiro homem de Deus."
+  },
+  {
+   "name": "Andrei",
+   "avatar": "https://d2zdpiztbgorvt.cloudfront.net/region1/br/users/95ca3b0cbe61499db505f3a95b4df7-82114e5ea3034b399adcee225cd0b2-booksy.jpeg?",
+   "rating": 5,
+   "text": "Excelente atendimento, recomendo a todos."
+  },
+  {
+   "name": "Felipe",
+   "avatar": "https://d2zdpiztbgorvt.cloudfront.net/region1/br/users/92e7924b23cb4dcdae5eab052b17a5-e1a79ed15fa040e5aa987bad0903f3-booksy.jpeg",
+   "rating": 5,
+   "text": "Um ótimo cabeleireiro e uma ótima pessoa, um Paulista com excelente educação e carisma, recomendo a todos."
+  }
+ ]
 }
