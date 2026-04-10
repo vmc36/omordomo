@@ -1048,6 +1048,18 @@ footer {
  }
 }
 
+@media (max-width: 768px) {
+ .team-grid {
+  grid-template-columns: 1fr;
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ .team-card img {
+  height: 420px;
+ }
+}
+
 @media (max-width: 600px) {
  :root {
   --section-pad: 56px 0;
