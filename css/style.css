@@ -1026,6 +1026,7 @@ footer {
  }
  .team-card img {
   height: 280px;
+  object-position: top center;
  }
 
  .gallery-grid {
@@ -1109,7 +1110,8 @@ footer {
   max-width: 100%;
  }
  .team-card img {
-  height: 300px;
+  height: 380px;
+  object-position: top center;
  }
 
  .gallery-grid {
